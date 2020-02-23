@@ -13,14 +13,14 @@ Feature: SIGN IN
 
     Given I'm on login screen
     And 'loginfailpath.google.com' is my email (signin)
-    And 'webuser123' is my password (signin)
+    And 'test111' is my password (signin)
     Then I see 'Invalid email address' email address field error message (signin)
 
   Scenario: As a user with active account I want to log in but my details are incorrect - fail path
 
     Given I'm on login screen
     And 'loginfailpath@test.com' is my email (signin)
-    And 'webuser123' is my password (signin)
+    And 'test111' is my password (signin)
     When I submit the form (signin)
     Then I see 'Incorrect login details' email address field error message (signin)
 

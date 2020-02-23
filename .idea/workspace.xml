@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bac8459-11c7-457b-ad0b-ca4d984de9fe" name="Default Changelist" comment="" />
+    <list default="true" id="0a60384c-45e2-4420-a6a9-e8f0a77dab10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/auth/sign-up.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/common/sign-up/sign-up.po.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/integration/common/sign-up/sign-up.steps.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cypress/support/index.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cypressTaskTests.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/integration/common/background.steps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/integration/common/background.steps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/commands.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cypress/support/index.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="TypeScript File" />
-      </list>
-    </option>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1YB9hTvIdFxgx2FVlJdhkZ4WIDu" />
+  <component name="ProjectId" id="1YCyTY2MDdEhwAr4H0z7wQ9Ybrs" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,193 +33,34 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress/integration" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cypress" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cypress/integration/common/test" />
-      <recent name="$PROJECT_DIR$/cypress/integration/common" />
-      <recent name="$PROJECT_DIR$/cypress/integration/test" />
-      <recent name="$PROJECT_DIR$/cypress" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/cypress/integration" />
-      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/cypress" />
-      <recent name="$PROJECT_DIR$/cypress/integration/common/sign-in" />
+      <recent name="$PROJECT_DIR$/cypress/integration/common" />
+      <recent name="$PROJECT_DIR$/cypress/integration/auth" />
     </key>
-  </component>
-  <component name="RunManager" selected="Cucumber java.Feature: baidu">
-    <configuration name="Feature: baidu" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/cypress/integration/baidu.feature" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.cli.Main" />
-      <module name="cypressTaskTests" />
-      <option name="PROGRAM_PARAMETERS" value=" --format org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: baidu" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="cypress/integration/baidu/search_via_baidu.js" type="CypressConfigurationType" factoryName="Cypress" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
-      <option name="allowRunningInParallel" value="false" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="passParentEnvs" value="true" />
-      <option name="programParameters" value="" />
-      <option name="workingDirectory" value="$PROJECT_DIR$" />
-      <option name="textRange" />
-      <option name="specsDir" />
-      <option name="specFile" value="$PROJECT_DIR$/cypress/integration/baidu/search_via_baidu.js" />
-      <option name="testName" />
-      <option name="workingDirectory" value="file://$PROJECT_DIR$" />
-      <option name="envs">
-        <map />
-      </option>
-      <option name="additionalParams" value="" />
-      <option name="passParentEnvs" value="true" />
-      <option name="nodeJsRef" value="project" />
-      <option name="kind" value="SPEC" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="cypressTaskTests" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="cypressTaskTests" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="5bac8459-11c7-457b-ad0b-ca4d984de9fe" name="Default Changelist" comment="" />
-      <created>1582405239586</created>
+      <changelist id="0a60384c-45e2-4420-a6a9-e8f0a77dab10" name="Default Changelist" comment="" />
+      <created>1582460878514</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1582405239586</updated>
-      <workItem from="1582405241104" duration="105000" />
-      <workItem from="1582405353882" duration="590000" />
-      <workItem from="1582405954558" duration="1252000" />
-      <workItem from="1582407220711" duration="1328000" />
-      <workItem from="1582408725158" duration="867000" />
-      <workItem from="1582409606185" duration="897000" />
-      <workItem from="1582410519418" duration="48000" />
-      <workItem from="1582410577662" duration="124000" />
-      <workItem from="1582410716798" duration="1954000" />
-      <workItem from="1582412734550" duration="2753000" />
-      <workItem from="1582450994689" duration="4409000" />
+      <updated>1582460878514</updated>
+      <workItem from="1582460882207" duration="863000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="516" y="186" key="#Feature:_baidu" timestamp="1582406365301">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="516" y="186" key="#Feature:_baidu/0.23.1680.1027@0.23.1680.1027" timestamp="1582406365301" />
-    <state x="440" y="190" key="#Project_Structure" timestamp="1582405248325">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="440" y="190" key="#Project_Structure/0.0.1680.1050@0.0.1680.1050" timestamp="1582405248325" />
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582406391494">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="304" y="198" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582406391494" />
-    <state x="463" y="219" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1582412841667">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="463" y="219" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1582412841667" />
-    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582406390892">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="577" y="327" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.1027@0.23.1680.1027" timestamp="1582406390892" />
-    <state x="535" y="246" key="#cypress/integration/baidu/search_via_baidu.js" timestamp="1582405664481">
-      <screen x="0" y="23" width="1680" height="1027" />
-    </state>
-    <state x="535" y="246" key="#cypress/integration/baidu/search_via_baidu.js/0.23.1680.1027@0.23.1680.1027" timestamp="1582405664481" />
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom" timestamp="1582413360110">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1582413360110" />
-    <state width="1638" height="295" key="GridCell.Tab.0.center" timestamp="1582413360109">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1582413360109" />
-    <state width="1638" height="295" key="GridCell.Tab.0.left" timestamp="1582413360108">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1582413360108" />
-    <state width="1638" height="295" key="GridCell.Tab.0.right" timestamp="1582413360109">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state width="1638" height="295" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1582413360109" />
-    <state x="498" y="282" width="683" height="486" key="find.popup" timestamp="1582451314008">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="498" y="282" width="683" height="486" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582451314008" />
-    <state x="505" y="232" width="670" height="692" key="search.everywhere.popup" timestamp="1582413936353">
-      <screen x="0" y="0" width="1680" height="1050" />
-    </state>
-    <state x="505" y="232" width="670" height="692" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1582413936353" />
-    <state x="505" y="250" width="670" height="676" key="search.everywhere.popup/0.23.1680.1027@0.23.1680.1027" timestamp="1582405549136" />
   </component>
 </project>
