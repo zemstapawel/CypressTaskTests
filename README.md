@@ -18,8 +18,8 @@ https://download.cypress.io/desktop
 
 **Run one option in terminal:**
 
-`cypress run` (headlessly with Electron)        
-`cypress open` (interactive mode)
+`npx cypress run` (headlessly with Electron)        
+`npx cypress open` (interactive mode)
                
 # Useful links
 
