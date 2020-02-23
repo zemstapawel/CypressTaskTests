@@ -1,0 +1,25 @@
+{
+  "name": "cypressbddtest",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@cypress/webpack-preprocessor": "^4.1.2",
+    "@types/cypress-cucumber-preprocessor": "^1.14.0",
+    "cypress": "^4.0.2",
+    "typescript": "^3.8.2"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true
+  },
+  "devDependencies": {
+    "cypress-cucumber-preprocessor": "^2.0.1",
+    "ts-loader": "^6.2.1",
+    "webpack": "^4.41.6"
+  }
+}

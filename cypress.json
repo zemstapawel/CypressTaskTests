@@ -1,0 +1,5 @@
+{
+  "ignoreTestFiles": ["*.js","*.ts"],
+  "baseUrl": "https://azimo.com/en",
+  "testFiles": "**/*.feature"
+}
