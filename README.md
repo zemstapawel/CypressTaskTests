@@ -9,7 +9,7 @@
 # Install
 
 You can run test from terminal
-1. Open project cypressBDDTEST
+1. Open project cypressTaskTests
 2. Run command: `npm install`
 3. Download and install Cypress.io:
 https://download.cypress.io/desktop
